@@ -2,7 +2,7 @@
 
 This was used to block players from queuing. **This has been patched and no longer works!**
 
-If you got perma blocked, sorry. I never intended for it to cause problems, a bit of annoyance and that's it, but all fun things have to come to and end, especially when they get abused as more people learn about it.
+If you got perma blocked, sorry. I never intended for it to cause problems, a bit of annoyance and that's it, but all fun things have to come to an end, especially when they get abused as more people learn about it.
 
 Timeline:
 
