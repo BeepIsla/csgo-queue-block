@@ -1,0 +1,11 @@
+{
+	"port": 8181,
+	"key": "A52KM4SVYBSTQ7RB85XN5QDN5LK4LXT6",
+	"maxLength": 14400,
+	"maxUsers": 100,
+	"logging": true,
+	"details": {
+		"accountName": "steam username",
+		"password": "steam password"
+	}
+}
